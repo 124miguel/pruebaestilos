@@ -1,0 +1,23 @@
+html {
+        background: url(http://farm8.staticflickr.com/7922/40485038073_7dda356b9f_b.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+body {
+    background: url(http://farm8.staticflickr.com/7922/40485038073_7dda356b9f_b.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #e5e5e7;
+}
+
+#tabs .first-current, #tabs .first-non-current, #tabs .current, #tabs .non-current, #tabs .first-current a, #tabs .first-non-current a, #tabs .current a, #tabs .non-current a {
+    color: #242464;
+    text-shadow: 0 1px 0 #FFF;
+    text-decoration: none;
+    font: bold 13px/31px Arial, sans-serif;
+}
